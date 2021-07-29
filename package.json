@@ -1,0 +1,15 @@
+{
+  "name": "needle-poc",
+  "version": "1.0.0",
+  "description": "Proof of concept for Jamie",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Clam#8061",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js",
+    "dotenv": "^10.0.0"
+  }
+}
